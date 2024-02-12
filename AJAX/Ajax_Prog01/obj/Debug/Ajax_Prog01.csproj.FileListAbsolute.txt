@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\Ajax_Prog01\bin\Ajax_Prog01.dll.config
+C:\Users\jaydi\source\repos\Ajax_Prog01\bin\Ajax_Prog01.dll
+C:\Users\jaydi\source\repos\Ajax_Prog01\bin\Ajax_Prog01.pdb
+C:\Users\jaydi\source\repos\Ajax_Prog01\obj\Debug\Ajax_Prog01.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\Ajax_Prog01\obj\Debug\Ajax_Prog01.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Ajax_Prog01\obj\Debug\Ajax_Prog01.dll
+C:\Users\jaydi\source\repos\Ajax_Prog01\obj\Debug\Ajax_Prog01.pdb
