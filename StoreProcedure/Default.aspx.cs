@@ -30,7 +30,9 @@ namespace StoreProcedure
             SqlCommand cmd = new SqlCommand("exec ProductSetup '" + productid + "','" + iname + "','" + specification + "','" + unit + "','" + status + "','" + dateTime + "'", con);
             cmd.ExecuteNonQuery();
             ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('insert');", true);
+            TextBox2.Text = "";
             GetProductList();
+            
 
         }
         void GetProductList()
@@ -64,6 +66,19 @@ namespace StoreProcedure
             cmd.ExecuteNonQuery();
             ScriptManager.RegisterStartupScript(this, this.GetType(), "script", "alert('Delete');", true);
             GetProductList();
+        }
+
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+            int productid = int.Parse(TextBox1.Text);
+            con.Open();
+            SqlCommand cmd = new SqlCommand("exec ProductSearch'" + productid + "'", con);
+           SqlDataAdapter ds = new SqlDataAdapter(cmd);
+            DataTable dt=new DataTable();
+            ds.Fill(dt);
+            GridView1.DataSource = dt;
+            GridView1.DataBind();
+
         }
     }
 }
