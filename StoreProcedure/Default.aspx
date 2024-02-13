@@ -68,9 +68,13 @@
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>&nbsp;</td>
-                <td>
-                    <asp:Button ID="btninsert" runat="server" Font-Size="Medium" ForeColor="#003399" Text="insert" OnClick="btninsert_Click" Width="200px" />
+                </td>
+                <td style="height: 41px; text-align: justify !important;" colspan="2" class="text-center">
+                    <asp:Button ID="btninsert" runat="server" Font-Size="Medium" ForeColor="White" Text="Insert" OnClick="btninsert_Click" Width="90px" BackColor="#009933" />
+                &nbsp;&nbsp;&nbsp;
+                    <asp:Button ID="Button1" runat="server" BackColor="Blue" ForeColor="White" OnClick="Button1_Click" Text="Update" />
+&nbsp;&nbsp;
+                    <asp:Button ID="Button2" runat="server" BackColor="Red" ForeColor="White" OnClick="Button2_Click" Text="Delete" />
                 </td>
             </tr>
             <tr>
