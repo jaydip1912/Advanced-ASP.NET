@@ -80,5 +80,10 @@ namespace StoreProcedure
             GridView1.DataBind();
 
         }
+
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            GetProductList();
+        }
     }
 }

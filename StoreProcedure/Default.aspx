@@ -15,7 +15,7 @@
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox1" runat="server" Width="200px"></asp:TextBox>
-                &nbsp;<asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Search" />
+                &nbsp;<asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Search" BackColor="#FFFF99" />
                 </td>
             </tr>
             <tr>
@@ -76,6 +76,8 @@
                     <asp:Button ID="Button1" runat="server" BackColor="Blue" ForeColor="White" OnClick="Button1_Click" Text="Update" />
 &nbsp;&nbsp;
                     <asp:Button ID="Button2" runat="server" BackColor="Red" ForeColor="White" OnClick="Button2_Click" Text="Delete" OnClientClick="return confirm ('Are you sure ? ')" />
+                &nbsp;&nbsp;
+                    <asp:Button ID="Button4" runat="server" BackColor="Black" ForeColor="White" OnClick="Button4_Click" Text="Load" />
                 </td>
             </tr>
             <tr>
