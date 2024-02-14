@@ -51,12 +51,12 @@ namespace State_Management
         protected global::System.Web.UI.WebControls.Button btnlogin;
 
         /// <summary>
-        /// tblmsg control.
+        /// lblmsg control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label tblmsg;
+        protected global::System.Web.UI.WebControls.Label lblmsg;
     }
 }

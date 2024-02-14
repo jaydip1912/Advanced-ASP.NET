@@ -16,7 +16,15 @@ namespace State_Management
 
         protected void btnlogin_Click(object sender, EventArgs e)
         {
-
+            if (txtuname.Text == "jaydip" && txtpass.Text == "123")
+            {
+                Session["username"] = txtuname.Text;
+                Response.Redirect("session.aspx");
+            }
+            else 
+            {
+                lblmsg.Text = "Invalid Username or password";
+            }
         }
     }
 }

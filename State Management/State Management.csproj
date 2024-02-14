@@ -71,6 +71,7 @@
     <Content Include="HiddenField.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="QueryString.aspx" />
+    <Content Include="session.aspx" />
     <Content Include="ViewState.aspx" />
     <Content Include="Web.config" />
     <Content Include="welcome.aspx" />
@@ -104,6 +105,13 @@
     </Compile>
     <Compile Include="QueryString.aspx.designer.cs">
       <DependentUpon>QueryString.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="session.aspx.cs">
+      <DependentUpon>session.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="session.aspx.designer.cs">
+      <DependentUpon>session.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewState.aspx.cs">
       <DependentUpon>ViewState.aspx</DependentUpon>

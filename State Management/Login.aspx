@@ -32,7 +32,7 @@
                 
                 <tr>
                     <td colspan="2">
-                        <asp:Label ID="tblmsg" runat="server" Text="Label"></asp:Label> </td>
+                        <asp:Label ID="lblmsg" runat="server" Text=""></asp:Label> </td>
                     
                 </tr>
                 
