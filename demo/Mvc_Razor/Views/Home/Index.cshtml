@@ -1,0 +1,42 @@
+﻿<html>
+<head>
+
+</head>
+<body>
+    <div>
+        Hello from Index view
+    </div>
+    <div>
+        jaydip123@gmail.com<br />
+        My twitter account - @@Demo_account
+
+    </div>
+    <div>
+        @DateTime.Now
+    </div>
+    <div>
+        @(5-3)
+    </div>
+        @{ 
+            // This is Comment
+            /*
+            This is
+            Multiline Comment
+            */
+            var a=8;
+            var b = 5;
+            var c = a + b;
+            var currentTime = DateTime.Now;
+            var tomorrowTime = DateTime.Now.AddDays(1);
+            var colorList = new List<string>() { "Pink", "Black", "Red" ,"Blue"};
+        }
+    <div>
+        <label>@c</label>
+        <label>Current time - @currentTime</label><br />
+        <label>Tomorrow time- @tomorrowTime</label><br />
+        <label>@colorList.FirstOrDefault()</label>
+    </div>
+
+</body>
+</html>
+

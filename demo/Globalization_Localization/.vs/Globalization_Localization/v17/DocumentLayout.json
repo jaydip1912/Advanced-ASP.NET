@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|c:\\users\\jaydi\\source\\repos\\globalization_localization\\localizaton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|solutionrelative:localizaton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\globalization.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|solutionrelative:globalization.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\globalization.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|solutionrelative:globalization.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\localizaton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CA6A24-E742-45C2-9E21-68586707DEE1}|Globalization_Localization.csproj|solutionrelative:localizaton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Localizaton.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Localizaton.aspx.cs",
+              "RelativeDocumentMoniker": "Localizaton.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Localizaton.aspx.cs",
+              "RelativeToolTip": "Localizaton.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:14:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Localizaton.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Localizaton.aspx",
+              "RelativeDocumentMoniker": "Localizaton.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Localizaton.aspx",
+              "RelativeToolTip": "Localizaton.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-18T05:42:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Globalization.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Globalization.aspx.cs",
+              "RelativeDocumentMoniker": "Globalization.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Globalization.aspx.cs",
+              "RelativeToolTip": "Globalization.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:42:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Globalization.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Globalization.aspx",
+              "RelativeDocumentMoniker": "Globalization.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization_Localization\\Globalization.aspx",
+              "RelativeToolTip": "Globalization.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-16T18:39:04.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

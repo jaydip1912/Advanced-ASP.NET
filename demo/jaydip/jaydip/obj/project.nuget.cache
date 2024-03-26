@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tp4y1EcTlpS9qVo81RRZ7Ldj6Ek/9M1VSh0Jp/lHzGf8eUG6eqo6LZeL5o4wMzi0SN8Pm5uMG6nmzMpUotKG6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaydi\\source\\repos\\jaydip\\jaydip\\jaydip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\jaydi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

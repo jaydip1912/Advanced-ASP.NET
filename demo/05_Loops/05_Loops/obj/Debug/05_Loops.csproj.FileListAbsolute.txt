@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\bin\Debug\05_Loops.exe.config
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\bin\Debug\05_Loops.exe
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\bin\Debug\05_Loops.pdb
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\obj\Debug\05_Loops.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\obj\Debug\05_Loops.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\obj\Debug\05_Loops.exe
+C:\Users\jaydi\source\repos\05_Loops\05_Loops\obj\Debug\05_Loops.pdb

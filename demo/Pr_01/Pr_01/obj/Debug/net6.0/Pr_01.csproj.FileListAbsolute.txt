@@ -1,0 +1,14 @@
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\bin\Debug\net6.0\Pr_01.exe
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\bin\Debug\net6.0\Pr_01.deps.json
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\bin\Debug\net6.0\Pr_01.runtimeconfig.json
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\bin\Debug\net6.0\Pr_01.dll
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\bin\Debug\net6.0\Pr_01.pdb
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.AssemblyInfoInputs.cache
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.AssemblyInfo.cs
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.dll
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\refint\Pr_01.dll
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.pdb
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\Pr_01.genruntimeconfig.cache
+C:\Users\jaydi\source\repos\Pr_01\Pr_01\obj\Debug\net6.0\ref\Pr_01.dll

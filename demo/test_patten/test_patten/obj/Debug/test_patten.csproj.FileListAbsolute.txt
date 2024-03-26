@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\test_patten\test_patten\bin\Debug\test_patten.exe.config
+C:\Users\jaydi\source\repos\test_patten\test_patten\bin\Debug\test_patten.exe
+C:\Users\jaydi\source\repos\test_patten\test_patten\bin\Debug\test_patten.pdb
+C:\Users\jaydi\source\repos\test_patten\test_patten\obj\Debug\test_patten.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\test_patten\test_patten\obj\Debug\test_patten.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\test_patten\test_patten\obj\Debug\test_patten.exe
+C:\Users\jaydi\source\repos\test_patten\test_patten\obj\Debug\test_patten.pdb

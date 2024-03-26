@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\12_Array\12_Array\obj\Debug\12_Array.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\12_Array\12_Array\obj\Debug\12_Array.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\12_Array\12_Array\bin\Debug\12_Array.exe.config
+C:\Users\jaydi\source\repos\12_Array\12_Array\bin\Debug\12_Array.exe
+C:\Users\jaydi\source\repos\12_Array\12_Array\bin\Debug\12_Array.pdb
+C:\Users\jaydi\source\repos\12_Array\12_Array\obj\Debug\12_Array.exe
+C:\Users\jaydi\source\repos\12_Array\12_Array\obj\Debug\12_Array.pdb

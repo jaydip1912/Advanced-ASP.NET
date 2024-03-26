@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h1>
+            @ViewBag.myData
+        </h1>
+    </div>
+    <div>
+        <ul>
+            @foreach(var item in ViewBag.myList)
+            {
+                <li>@item</li>
+            }
+
+        </ul>
+    </div>
+    <div>
+        <ul>
+            @foreach(var item in ViewBag.myEmpList)
+            {
+                <li>
+                    Name -@item.Name, Email -@item.Email, Id - @item.Id
+                </li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

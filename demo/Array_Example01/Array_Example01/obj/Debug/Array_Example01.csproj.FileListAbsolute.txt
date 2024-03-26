@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\bin\Debug\Array_Example01.exe.config
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\bin\Debug\Array_Example01.exe
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\bin\Debug\Array_Example01.pdb
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\obj\Debug\Array_Example01.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\obj\Debug\Array_Example01.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\obj\Debug\Array_Example01.exe
+C:\Users\jaydi\source\repos\Array_Example01\Array_Example01\obj\Debug\Array_Example01.pdb

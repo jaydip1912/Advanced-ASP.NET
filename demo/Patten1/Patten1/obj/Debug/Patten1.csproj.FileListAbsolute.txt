@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\Patten1\Patten1\bin\Debug\Patten1.exe.config
+C:\Users\jaydi\source\repos\Patten1\Patten1\bin\Debug\Patten1.exe
+C:\Users\jaydi\source\repos\Patten1\Patten1\bin\Debug\Patten1.pdb
+C:\Users\jaydi\source\repos\Patten1\Patten1\obj\Debug\Patten1.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\Patten1\Patten1\obj\Debug\Patten1.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Patten1\Patten1\obj\Debug\Patten1.exe
+C:\Users\jaydi\source\repos\Patten1\Patten1\obj\Debug\Patten1.pdb

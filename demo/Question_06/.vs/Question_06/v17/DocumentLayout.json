@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\Question_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|c:\\users\\jaydi\\source\\repos\\question_06\\ajax.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|solutionrelative:ajax.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|c:\\users\\jaydi\\source\\repos\\question_06\\insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|solutionrelative:insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|c:\\users\\jaydi\\source\\repos\\question_06\\insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF4F8F5-0E01-47FB-9DF3-AB07A717B898}|Question_06.csproj|solutionrelative:insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insert.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Insert.aspx.cs",
+              "RelativeDocumentMoniker": "Insert.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Insert.aspx.cs",
+              "RelativeToolTip": "Insert.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:30:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insert.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Insert.aspx",
+              "RelativeDocumentMoniker": "Insert.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Insert.aspx",
+              "RelativeToolTip": "Insert.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-26T21:29:52.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ajax.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Ajax.aspx",
+              "RelativeDocumentMoniker": "Ajax.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Question_06\\Ajax.aspx",
+              "RelativeToolTip": "Ajax.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-26T21:29:47.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

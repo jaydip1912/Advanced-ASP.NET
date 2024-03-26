@@ -1,0 +1,65 @@
+﻿@using Mvc_Loops_Statement.Models
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @{  
+        //bool isTrue = true;
+        int myVar = 3;
+
+    }
+    <div> 
+        @if(myVar==1)
+            {
+                <h1>Hello, I am from if block 1 </h1>
+        }
+         else if(myVar==2)
+            {
+                <h1>Hello, Iam from if block 2 </h1>
+            }
+         else
+            {
+                <h1>Hello, I am from else part</h1>
+            }
+    </div>
+    <hr />
+    <div>
+        @{ 
+            var myList = new List<int>() { 1,2,3,4,5,6,7,8,9,10};
+            <text>
+            var myList1 = new List<int>
+                () { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            </text>
+
+                Employee emp = new Employee() { Id=1,Name="Jaydip"};
+            <br />
+            <div>Hello this is a div </div>
+        }
+    </div>
+    <div>
+        Id - @emp.Id<br />
+        Name -@emp.Name
+    </div>
+    <div>
+        @foreach (var obj in myList)
+        {
+                <h1>My value is = @obj  </h1><br />
+        }
+    </div>
+    <div>
+        @for (int i=0;i<=9;i++)
+            {
+                <div>
+                    <h1>Hello, I am from loop, for @i index </h1><br />
+                </div>
+            }
+        @(myVar==3 ? "condition is true":"condition is flase")
+    </div>
+
+</body>
+</html>

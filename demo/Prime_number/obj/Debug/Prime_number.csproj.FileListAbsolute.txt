@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\Prime_number\bin\Debug\Prime_number.exe.config
+C:\Users\jaydi\source\repos\Prime_number\bin\Debug\Prime_number.exe
+C:\Users\jaydi\source\repos\Prime_number\bin\Debug\Prime_number.pdb
+C:\Users\jaydi\source\repos\Prime_number\obj\Debug\Prime_number.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\Prime_number\obj\Debug\Prime_number.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Prime_number\obj\Debug\Prime_number.exe
+C:\Users\jaydi\source\repos\Prime_number\obj\Debug\Prime_number.pdb

@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\jaydi\source\repos\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\jaydi\source\repos\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\jaydi\source\repos\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\jaydi\source\repos\WhileLoop\obj\Debug\WhileLoop.pdb

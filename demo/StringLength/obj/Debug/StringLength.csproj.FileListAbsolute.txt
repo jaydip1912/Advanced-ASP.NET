@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\jaydi\source\repos\StringLength\bin\Debug\StringLength.exe
+C:\Users\jaydi\source\repos\StringLength\bin\Debug\StringLength.pdb
+C:\Users\jaydi\source\repos\StringLength\obj\Debug\StringLength.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\StringLength\obj\Debug\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\StringLength\obj\Debug\StringLength.exe
+C:\Users\jaydi\source\repos\StringLength\obj\Debug\StringLength.pdb

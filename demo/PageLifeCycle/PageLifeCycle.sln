@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageLifeCycle", "PageLifeCycle\PageLifeCycle.csproj", "{2051855E-DDF3-4B00-B05A-7EB10BE7C166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2051855E-DDF3-4B00-B05A-7EB10BE7C166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2051855E-DDF3-4B00-B05A-7EB10BE7C166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2051855E-DDF3-4B00-B05A-7EB10BE7C166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2051855E-DDF3-4B00-B05A-7EB10BE7C166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24500D51-F81A-48A4-ADE2-C7CCAF675D3E}
+	EndGlobalSection
+EndGlobal

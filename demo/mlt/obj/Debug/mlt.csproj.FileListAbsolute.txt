@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\mlt\bin\Debug\mlt.exe.config
+C:\Users\jaydi\source\repos\mlt\bin\Debug\mlt.exe
+C:\Users\jaydi\source\repos\mlt\bin\Debug\mlt.pdb
+C:\Users\jaydi\source\repos\mlt\obj\Debug\mlt.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\mlt\obj\Debug\mlt.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\mlt\obj\Debug\mlt.exe
+C:\Users\jaydi\source\repos\mlt\obj\Debug\mlt.pdb

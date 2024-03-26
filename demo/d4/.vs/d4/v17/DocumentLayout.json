@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\d4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD74B55-FB6A-422D-B931-330C2C6C6E85}|d4.csproj|c:\\users\\jaydi\\source\\repos\\d4\\viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD74B55-FB6A-422D-B931-330C2C6C6E85}|d4.csproj|solutionrelative:viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD74B55-FB6A-422D-B931-330C2C6C6E85}|d4.csproj|c:\\users\\jaydi\\source\\repos\\d4\\viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AD74B55-FB6A-422D-B931-330C2C6C6E85}|d4.csproj|solutionrelative:viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Viewstate.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\d4\\Viewstate.aspx.cs",
+              "RelativeDocumentMoniker": "Viewstate.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\d4\\Viewstate.aspx.cs",
+              "RelativeToolTip": "Viewstate.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:38:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Viewstate.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\d4\\Viewstate.aspx",
+              "RelativeDocumentMoniker": "Viewstate.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\d4\\Viewstate.aspx",
+              "RelativeToolTip": "Viewstate.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-26T19:33:04.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

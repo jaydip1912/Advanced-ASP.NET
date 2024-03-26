@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\Globalization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|c:\\users\\jaydi\\source\\repos\\globalization\\localization_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|solutionrelative:localization_01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|c:\\users\\jaydi\\source\\repos\\globalization\\globalization.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|solutionrelative:globalization.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|c:\\users\\jaydi\\source\\repos\\globalization\\globalization.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B7FBCD-DC0C-4B60-9E6B-C879DA77F004}|Globalization_Localization.csproj|solutionrelative:globalization.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Localization_01.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Localization_01.aspx",
+              "RelativeDocumentMoniker": "Localization_01.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Localization_01.aspx",
+              "RelativeToolTip": "Localization_01.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T19:34:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Globalization.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Globalization.aspx.cs",
+              "RelativeDocumentMoniker": "Globalization.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Globalization.aspx.cs",
+              "RelativeToolTip": "Globalization.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:40:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Globalization.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Globalization.aspx",
+              "RelativeDocumentMoniker": "Globalization.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Globalization\\Globalization.aspx",
+              "RelativeToolTip": "Globalization.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T19:35:14.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

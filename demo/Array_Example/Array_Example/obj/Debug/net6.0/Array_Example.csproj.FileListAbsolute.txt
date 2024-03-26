@@ -1,0 +1,14 @@
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\bin\Debug\net6.0\Array_Example.exe
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\bin\Debug\net6.0\Array_Example.deps.json
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\bin\Debug\net6.0\Array_Example.runtimeconfig.json
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\bin\Debug\net6.0\Array_Example.dll
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\bin\Debug\net6.0\Array_Example.pdb
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.AssemblyInfoInputs.cache
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.AssemblyInfo.cs
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.dll
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\refint\Array_Example.dll
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.pdb
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\Array_Example.genruntimeconfig.cache
+C:\Users\jaydi\source\repos\Array_Example\Array_Example\obj\Debug\net6.0\ref\Array_Example.dll

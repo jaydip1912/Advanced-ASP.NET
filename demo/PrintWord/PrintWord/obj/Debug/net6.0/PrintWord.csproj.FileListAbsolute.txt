@@ -1,0 +1,14 @@
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\bin\Debug\net6.0\PrintWord.exe
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\bin\Debug\net6.0\PrintWord.deps.json
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\bin\Debug\net6.0\PrintWord.runtimeconfig.json
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\bin\Debug\net6.0\PrintWord.dll
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\bin\Debug\net6.0\PrintWord.pdb
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.AssemblyInfoInputs.cache
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.AssemblyInfo.cs
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.dll
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\refint\PrintWord.dll
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.pdb
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\PrintWord.genruntimeconfig.cache
+C:\Users\jaydi\source\repos\PrintWord\PrintWord\obj\Debug\net6.0\ref\PrintWord.dll

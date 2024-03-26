@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\bin\Debug\04_Conditional_Statement.exe.config
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\bin\Debug\04_Conditional_Statement.exe
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\bin\Debug\04_Conditional_Statement.pdb
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\obj\Debug\04_Conditional_Statement.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\obj\Debug\04_Conditional_Statement.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\obj\Debug\04_Conditional_Statement.exe
+C:\Users\jaydi\source\repos\04_Conditional_Statement\04_Conditional_Statement\obj\Debug\04_Conditional_Statement.pdb

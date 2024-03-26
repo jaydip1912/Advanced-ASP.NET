@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|c:\\users\\jaydi\\source\\repos\\crud_mvc_demo\\migrations\\202403202008442_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|solutionrelative:migrations\\202403202008442_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|c:\\users\\jaydi\\source\\repos\\crud_mvc_demo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|c:\\users\\jaydi\\source\\repos\\crud_mvc_demo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|c:\\users\\jaydi\\source\\repos\\crud_mvc_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|c:\\users\\jaydi\\source\\repos\\crud_mvc_demo\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31204CF3-A84F-4BED-B1E7-10FEE2D5ECDF}|crud_mvc_demo.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202403202008442_Init-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Migrations\\202403202008442_Init-Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\202403202008442_Init-Migration.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Migrations\\202403202008442_Init-Migration.cs",
+              "RelativeToolTip": "Migrations\\202403202008442_Init-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:08:49.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:02:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-20T19:56:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Models\\IdentityModels.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:55:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\crud_mvc_demo\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:54:47.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

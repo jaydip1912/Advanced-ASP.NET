@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @helper MyListHelper(string[] str) 
+        {
+    if(str.Length==0)
+        {
+            <label>No data exist</label>
+        }
+    else
+    {
+        <ul>
+            @foreach (var item in str)
+            {
+                <li>
+                    @item
+                </li>
+            }
+        </ul>
+    }
+    }
+    </div>
+    <div>
+        <lable>Example 1 - Name list</lable>
+        <div>
+            @MyListHelper(new string[] { "tom", "harry", "john", "mark" })
+        </div>
+        <lable>Example 2 - Programming language</lable>
+        <div>
+            @MyListHelper(new string[] { "java", "html", "php", "c#" })
+        </div>
+        <div>
+            <lable>Example 3 - Empty list</lable>
+            <div>
+                @MyListHelper(new string[] { })
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standard_Html_Helpers", "Standard_Html_Helpers.csproj", "{10ED104D-11B1-458D-999C-755E07A7454D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10ED104D-11B1-458D-999C-755E07A7454D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ED104D-11B1-458D-999C-755E07A7454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ED104D-11B1-458D-999C-755E07A7454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ED104D-11B1-458D-999C-755E07A7454D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095C2B93-876B-443A-81A1-2FCAAADC14AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\CompareString\bin\Debug\CompareString.exe.config
+C:\Users\jaydi\source\repos\CompareString\bin\Debug\CompareString.exe
+C:\Users\jaydi\source\repos\CompareString\bin\Debug\CompareString.pdb
+C:\Users\jaydi\source\repos\CompareString\obj\Debug\CompareString.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\CompareString\obj\Debug\CompareString.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\CompareString\obj\Debug\CompareString.exe
+C:\Users\jaydi\source\repos\CompareString\obj\Debug\CompareString.pdb

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|c:\\users\\jaydi\\source\\repos\\mvc_view\\views\\shared\\rename.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|solutionrelative:views\\shared\\rename.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|C:\\Users\\jaydi\\source\\repos\\Mvc_View\\views\\myview\\mynewview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|solutionrelative:views\\myview\\mynewview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|C:\\Users\\jaydi\\source\\repos\\Mvc_View\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCF2BEE-8380-4FF8-8FD1-3DAB9A853E7C}|Mvc_View.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rename.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\Shared\\Rename.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Rename.cshtml",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\Shared\\Rename.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Rename.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T12:16:30.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mynewview.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\MyView\\mynewview.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyView\\mynewview.cshtml",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\MyView\\mynewview.cshtml",
+              "RelativeToolTip": "Views\\MyView\\mynewview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T12:15:54.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Mvc_View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T12:14:47.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

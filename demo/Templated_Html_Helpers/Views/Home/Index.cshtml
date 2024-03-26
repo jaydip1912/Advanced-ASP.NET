@@ -1,0 +1,43 @@
+﻿@using Templated_Html_Helpers.Models
+@model Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Html.DisplayName("Name")<br /><br />
+        @Html.DisplayNameFor(x=>x.DateofBirth)<br /><br />
+        <hr />
+        @Html.DisplayText("Name")<br /><br />
+        @Html.DisplayTextFor(x=>x.DateofBirth)<br /><br />
+        @Html.Display("Name")<br /><br />
+        @Html.DisplayFor(x=>x.Email)<br /><br />
+        <hr /><hr />
+        @Html.DisplayForModel()
+    </div>
+</body>
+</html>
+<style>
+    .display-label {
+        width:300px;
+        padding:5px;
+        background-color:cornsilk;
+        border-radius:5px;
+    }
+    .display-field {
+        width: 300px;
+        padding: 5px;
+        background-color:blue;
+        border-radius: 5px;
+        margin-left:20px !important;
+        margin:10px;
+    }
+</style>

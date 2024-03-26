@@ -1,0 +1,2 @@
+C:\Users\jaydi\source\repos\Patten\Patten\obj\Debug\Patten.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\Patten\Patten\obj\Debug\Patten.csproj.CoreCompileInputs.cache

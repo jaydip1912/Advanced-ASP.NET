@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\bin\Debug\02_Simple_Calculator.exe.config
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\bin\Debug\02_Simple_Calculator.exe
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\bin\Debug\02_Simple_Calculator.pdb
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\obj\Debug\02_Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\obj\Debug\02_Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\obj\Debug\02_Simple_Calculator.exe
+C:\Users\jaydi\source\repos\02_Simple_Calculator\02_Simple_Calculator\obj\Debug\02_Simple_Calculator.pdb

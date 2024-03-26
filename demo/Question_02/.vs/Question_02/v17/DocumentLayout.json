@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaydi\\source\\repos\\Question_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189B9180-223A-4F88-AF4D-365F38B4A656}|Question_02.csproj|C:\\Users\\jaydi\\source\\repos\\Question_02\\gridview_crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189B9180-223A-4F88-AF4D-365F38B4A656}|Question_02.csproj|solutionrelative:gridview_crud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189B9180-223A-4F88-AF4D-365F38B4A656}|Question_02.csproj|c:\\users\\jaydi\\source\\repos\\question_02\\gridview_crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{189B9180-223A-4F88-AF4D-365F38B4A656}|Question_02.csproj|solutionrelative:gridview_crud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gridview_Crud.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Question_02\\Gridview_Crud.aspx.cs",
+              "RelativeDocumentMoniker": "Gridview_Crud.aspx.cs",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Question_02\\Gridview_Crud.aspx.cs*",
+              "RelativeToolTip": "Gridview_Crud.aspx.cs*",
+              "ViewState": "AQIAAGQAAAAAAAAAAAArwHsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:54:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gridview_Crud.aspx",
+              "DocumentMoniker": "C:\\Users\\jaydi\\source\\repos\\Question_02\\Gridview_Crud.aspx",
+              "RelativeDocumentMoniker": "Gridview_Crud.aspx",
+              "ToolTip": "C:\\Users\\jaydi\\source\\repos\\Question_02\\Gridview_Crud.aspx*",
+              "RelativeToolTip": "Gridview_Crud.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-07T19:47:02.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

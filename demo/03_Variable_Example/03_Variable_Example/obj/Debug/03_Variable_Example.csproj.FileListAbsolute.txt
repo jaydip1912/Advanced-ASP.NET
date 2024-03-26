@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\bin\Debug\03_Variable_Example.exe.config
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\bin\Debug\03_Variable_Example.exe
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\bin\Debug\03_Variable_Example.pdb
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\obj\Debug\03_Variable_Example.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\obj\Debug\03_Variable_Example.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\obj\Debug\03_Variable_Example.exe
+C:\Users\jaydi\source\repos\03_Variable_Example\03_Variable_Example\obj\Debug\03_Variable_Example.pdb

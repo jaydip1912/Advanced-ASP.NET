@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\String_join\bin\Debug\String_join.exe.config
+C:\Users\jaydi\source\repos\String_join\bin\Debug\String_join.exe
+C:\Users\jaydi\source\repos\String_join\bin\Debug\String_join.pdb
+C:\Users\jaydi\source\repos\String_join\obj\Debug\String_join.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\String_join\obj\Debug\String_join.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\String_join\obj\Debug\String_join.exe
+C:\Users\jaydi\source\repos\String_join\obj\Debug\String_join.pdb

@@ -1,0 +1,7 @@
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\bin\Debug\MultiDimenitionalArray.exe.config
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\bin\Debug\MultiDimenitionalArray.exe
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\bin\Debug\MultiDimenitionalArray.pdb
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\obj\Debug\MultiDimenitionalArray.csproj.AssemblyReference.cache
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\obj\Debug\MultiDimenitionalArray.csproj.CoreCompileInputs.cache
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\obj\Debug\MultiDimenitionalArray.exe
+C:\Users\jaydi\source\repos\MultiDimenitionalArray\obj\Debug\MultiDimenitionalArray.pdb
